@@ -1,4 +1,4 @@
-### Hi there 👋
+### 신입 개발자 권효은입니다:) 😄
 
 <!--
 **Hyoeun-Kwon/Hyoeun-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
